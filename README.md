@@ -1,5 +1,7 @@
 # FullStack Learning Management System (LMS)
 A dynamic Learning Management System (LMS) built with Next.js, React.js, Tailwind CSS, GraphQL with Hygraph, and Clerk to provide an interactive and feature-rich educational platform.
+## Deployed Link
+[LMS APP](https://course-details-app-ishaharis330-gmailcom-ayisha-ys-projects.vercel.app)
 # Overview
 This repository houses a FullStack Learning Management System (LMS) that leverages modern web technologies to create a comprehensive educational platform.
 # Features
